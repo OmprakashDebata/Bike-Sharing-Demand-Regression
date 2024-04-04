@@ -44,4 +44,4 @@ We evaluated model performance using metrics such as:
 In conclusion, the Seoul Bike Rental Demand Prediction project exemplified the power of data-driven decision-making in optimizing bike rental services. Through a meticulous journey of data exploration and preprocessing, we fortified our dataset and uncovered valuable insights. Ingenious feature engineering and model selection processes paved the way for accurate predictions. Notably, Random Forest and Gradient Boosting stood out as the top-performing models. Leveraging hyperparameter tuning techniques, we further refined these models to enhance their predictive prowess. This project not only delivered a robust machine learning model but also underscored the pivotal role of data science in enhancing urban mobility and resource allocation for the Seoul Bike Rental Company.
 
 
-If you have any feedback, please reach out to us at bubundebata1234@gmail.com
+If you have any feedback, please reach out to us at omprakashdebata12@gmail.com
